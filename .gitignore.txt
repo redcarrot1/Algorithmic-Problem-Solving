@@ -1,0 +1,5 @@
+Debug/
+easy.cpp
+백준.vcxproj
+백준.vcxproj.filters
+백준.vcxproj.user
